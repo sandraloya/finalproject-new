@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(199, 157, 108, 0.418);
+}
+
+.youtubecol {
+    height: 350px;
+    width: 570px;
+    background-color: black;
+    border: 3px solid red;
+    display: block;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.youtubevideo {
+    margin-top: 15px;
+    margin-left: 2px;
+}
+
+.youtubedesc {
+    height: 300px;
+    width: 570px;
+    float: left;
+    margin-left: 100px;
+}
